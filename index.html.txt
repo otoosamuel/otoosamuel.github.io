@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-US"
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0'>
+<title>Samuel Otoo | WDD 130<title/>
+</head>
+<body>
+<header>
+<nav>
+<a href="#">Home</a>
+<a href="wwr/">Rafting Website</a>
+<a href="wwr/rafting-site-plan.html"<Rafting-Site-Plan</a>
+</nav>
+</header>
+<main>
+<h1>Samuel Otoo | WDD 130</h1>
+<img src="images/profile.jpg" alt="Hello my name is Samuel Otoo" width="
+<p>Hello my name is Samuel Otoo and I am from Western Region of Ghana. I am 22 years old. I am currently enrolling BYU-Idaho. I am pursuing a degree in Software Development. I am learning a great deal more in this course and I invite everyone to join BYU Pathway Connect program and experience what I am experiencing. Thank you</p>
+</main>
+<footer>
+<p>©2024 🌻 Samuel Otoo 🌻 Western Region, Ghana 🌻</p>
+</footer>
+</body>
+</html>
